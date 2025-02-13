@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Tais1719/tais1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Sou desenvolvedora **Web** e **React Native**, apaixonada por criar interfaces incríveis e experiências fluidas para os usuários. 🚀  
+
+
+
+🔗 Conecte-se comigo:
+
+[LinkedIn](linkedin.com/in/taís-porfirio-dos-santos-2a14bb2b4)
+
+[![tais](https://github-readme-stats.vercel.app/api?username=tais1719)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tais1719)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⚡ Tecnologias e Ferramentas
+
+### 🌐 Frontend
+- React.js / Next.js  
+- React Native / Expo  
+- TypeScript / JavaScript  
+- HTML / CSS / Sass  
+- Styled-Components / Tailwind CSS  
+- Storybook  
+
+
+
+
+### 🔧 Outras Ferramentas
+- Git & GitHub  
+- Figma (UI/UX)  
+- Docker  
+
+✨ Sempre aprendendo e construindo coisas incríveis! ✨
+
