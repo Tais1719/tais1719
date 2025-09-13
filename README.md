@@ -18,7 +18,6 @@ Olá! Sou desenvolvedora **Web** e **React Native**, apaixonada por criar interf
 
 ### 🌐 Frontend
 - React.js / Next.js  
-- React Native / Expo  
 - TypeScript / JavaScript  
 - HTML / CSS / Sass  
 - Styled-Components / Tailwind CSS  
